@@ -16,6 +16,7 @@ Completing your challenge
 
 Since this is a git template repository, it isn't possible to fork it, so you will need to "Use template" and clone it to your local development environment. Then create a private github repository of your own and change it to be upstream of your local copy. Upload any SQL that you have to correlate data sets. Once you are ready for us to see your code, add these users as collaborators to your project:
 
+* https://github.com/nickwallace85
 * https://github.com/plriley22
 * https://github.com/tslabach
 * https://github.com/lpeckham1
